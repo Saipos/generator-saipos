@@ -1,3 +1,6 @@
+# generator-saipos
+Generator de código boilerplate para o clientweb da Saipos
+
 # generator-saipos [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > Generator para o clientweb Angular da Saipos
 
