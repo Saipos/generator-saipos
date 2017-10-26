@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Tiago Alves",
+      "authorEmail": "tiago.alves718@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
