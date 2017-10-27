@@ -25,7 +25,7 @@ yo saipos
 
 ## License
 
- © [Tiago Alves]()
+ © [Tiago Alves](https://github.com/tiaghoalves)
 
 
 [npm-image]: https://badge.fury.io/js/generator-saipos.svg
